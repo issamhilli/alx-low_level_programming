@@ -19,5 +19,5 @@ if ((exclusive >> i) & 1)
 count++;
 }
 
-return count;
+return (count);
 }
